@@ -11,7 +11,7 @@
   <!-- Default GitHub (light + dark auto) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/group-A-fm2025/group-A-fm2025/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/group-A-fm2025/group-A-fm2025/output/blues.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/group-A-fm2025/group-A-fm2025/output/blues.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/group-A-fm2025/group-A-fm2025/output/dark_navy.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/group-A-fm2025/group-A-fm2025/output/dark_navy.svg" />
   </picture>
 </p>
