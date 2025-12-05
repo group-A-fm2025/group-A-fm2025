@@ -1,4 +1,4 @@
-name: BlueSnake
+name: CostumeSnake
 
 on:
   schedule:
@@ -18,8 +18,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/blues.svg?color_snake=#05004a&color_dots=#c2c9ff,#828ce5,#4d56cb,#2127b1,#000098
-            
+            dist/dark_navy.svg?color_snake=#ffbc00&color_dots=#000013,#060647,#15167b,#3d3fca,#646fff           
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
