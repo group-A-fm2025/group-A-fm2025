@@ -18,7 +18,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/dark_navy.svg?color_snake=#ffbc00&color_dots=#000013,#060647,#15167b,#3d3fca,#646fff           
+            dist/dark_navy.svg?color_snake=#e99800&color_dots=#cfccff,#6465ff,#2e2fb0,#15167b,#060647           
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
